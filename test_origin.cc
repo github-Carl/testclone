@@ -7,5 +7,6 @@ main(void)
 {
   cout << " test " << endl;
   cout << " test3 " << endl;
+  cout << " test-push " << endl;
   return 0;
 }
